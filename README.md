@@ -8,16 +8,6 @@
 
 ---
 
-## Acknowledgements & References
-
-We would like to acknowledge the following individuals and resources.
-
-Their work provided crucial foundational knowledge for our project:
-
-* **Easiest DIY Method & Full Step-by-Step Tutorial:** How to Make an 8x8x8 LED Cube with Arduino at home.
-* **N. Sri Sai, B. Naga Subrahmanyam, K. Yeshwanth Sai, A. Vara Durga Siva Sai, K. Pavan Kumar, S. Sai Harsha:** Efficient design of 8×8×8 LED Cube with Low Power consumption using Arduino UNO.
-
-
 ## Introduction
 An 8x8x8 LED Cube is a three-dimensional structure made using 512 LEDs arranged in the form of a perfect cube. Each LED can be controlled individually using an Arduino, allowing us to create beautiful 3D animations, flowing patterns, waves, rain effects, and text-like movements.
 
