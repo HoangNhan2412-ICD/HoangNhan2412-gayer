@@ -61,16 +61,9 @@ By manipulating each LED in a synchronized sequence, we can render:
 
 Instead of a standard step-by-step tutorial, this document serves as a comprehensive engineering log.
 
-It outlines our methodology:
-**How We Made It**
-
-And provides an in-depth technical analysis:
-**What We Learned**
-
 ---
 
 ## Part 1: How We Made It 
-*(The Engineering Process)*
 
 Building this voxel-based display required a rigorous approach.
 
@@ -130,7 +123,7 @@ This translates abstract 3D coordinates into physical electrical signals.
 
 ---
 
-## Part 2: What We Learned 
+What We Learned 
 *(Technical Takeaways)*
 
 This project evolved far beyond a simple soldering task. 
